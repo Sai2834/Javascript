@@ -1,0 +1,9 @@
+label{
+    font-weight: 400;
+    font-style: italic;
+}
+button:hover{
+    color: rgb(207, 188, 226);
+    box-shadow: 20px;
+    border-color: chartreuse;
+}
